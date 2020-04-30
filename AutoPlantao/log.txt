@@ -1,0 +1,12 @@
+[30/03/2020 21:41:04] - ascessando nt1510 para logar[30/03/2020 21:45:55] - ascessando nt1510 para logar[30/03/2020 21:45:55] - dados de acesso[30/03/2020 21:45:55] - Nome: Olá, Leonan R. Ferreira[30/03/2020 21:45:55] - Usuario: P0642065[30/03/2020 21:45:55] - Senha: umdois33
+[30/03/2020 21:47:54] - ascessando nt1510 para logar
+[30/03/2020 21:47:54] - dados de acesso
+[30/03/2020 21:47:54] - Nome: Olá, Leonan R. Ferreira
+[30/03/2020 21:47:54] - Usuario: P0642065
+[30/03/2020 21:47:54] - Senha: umdois33
+[30/03/2020 21:49:12] - ascessando nt1510 para logar
+[30/03/2020 21:49:55] - ascessando nt1510 para logar
+[30/03/2020 21:49:55] - dados de acesso
+[30/03/2020 21:49:55] - Olá, Leonan R. Ferreira
+[30/03/2020 21:49:55] - Usuario: P0642065
+[30/03/2020 21:49:55] - Senha: umdois33
